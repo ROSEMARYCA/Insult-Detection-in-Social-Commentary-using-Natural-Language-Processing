@@ -28,7 +28,7 @@ users.*
 
 
 >Pre requisites:
-   * Install Jupiter ipython for the functioning of plot.ipynb (This includes graphs for understanding of data)
+>   * Install Jupiter ipython for the functioning of plot.ipynb (This includes graphs for understanding of data)
 
 >Steps to Run:
 > 1.	Run train_data.py to see the results and the learning curves (This is the main code which trains the data)
